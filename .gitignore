@@ -1,0 +1,25 @@
+# APKs and generated reverse-engineering output
+/android-analysis/编译结果/
+/android-analysis/**/original/
+/android-analysis/**/apktool/
+/android-analysis/**/decompiled-jadx/
+/android-analysis/**/decompiled-jadx-recovered/
+/android-analysis/**/diagnostics/
+
+# Runtime captures and downloaded/extracted data
+/android-analysis/scripts/**/data/
+/android-analysis/scripts/**/node_modules/
+/android-analysis/scripts/**/__pycache__/
+*.py[cod]
+*.apk
+*.aab
+*.dex
+*.class
+*.so
+*.bin
+*.mp4
+*.ts
+*.m3u8
+*.ndjson
+*.jsonl
+.DS_Store
